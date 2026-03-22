@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=78F7F1&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Dantte+Roberto)](https://git.io/typing-svg)
 
 * Sou estudante de Ciência da Computação pelo CIn-UFPE
-* Tenho grande interesse na área de dados e IA
+* Tenho grande interesse na área de dados e IA e também na área de desenvolvimento de software
 * Atualmente no 4º período da graduação
 
 No momento, meu foco de estudos é aprendizado de máquina e ciência de dados, busco desenvolver minhas habilidades diariamente através de projetos práticos e aulas teóricas. Nesse perfil estão todos os projetos que participei, tanto os projetos pessoais de estudo quanto as atividades acadêmicas realizadas em grupo, utilizadas como avaliação das disciplinas durante os períodos da graduação.

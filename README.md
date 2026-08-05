@@ -4,7 +4,7 @@
 * Sou estudante de Ciência da Computação pelo CIn-UFPE
 * Desenvolvedor de Software no CITi-UFPE, a maior Empresa Júnior de tecnologia do Brasil
 * Tenho grande interesse na área de dados e IA e também na área de desenvolvimento de software
-* Atualmente no 4º período da graduação
+* Atualmente no 5º período da graduação
 
 No momento, meu foco de estudos é engenharia de software, busco desenvolver minhas habilidades diariamente através de projetos práticos e aulas teóricas. Nesse perfil estão todos os projetos que participei, tanto os projetos pessoais de estudo quanto as atividades acadêmicas realizadas em grupo, utilizadas como avaliação das disciplinas durante os períodos da graduação.
 
